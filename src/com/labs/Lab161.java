@@ -10,7 +10,7 @@ public class Lab161 {
             mas[i] = 2 + i*2;
             System.out.println(mas[i]);
         }*/
-        for(int i = 2;i <= 30;i =i +2) {
+        for(int i = 2;i <= 30;i += 2) {
             mas[i/2-1] = i;
             System.out.println(mas[i/2-1]);
         }
