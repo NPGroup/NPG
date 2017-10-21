@@ -1,4 +1,4 @@
-package com.Lab210;
+package com.lab210;
 
 public class Computer {
 
