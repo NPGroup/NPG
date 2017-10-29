@@ -3,11 +3,11 @@ package com.lab210;
 public class Computer {
 
     // Lab 2-1-1
-    private String manufacturer;
-    private int serialNumber;
+    private String manufacturer = "NPG";
+    private int serialNumber = 100001;
     private float price;
-    private int quantityCPU;
-    private int frequencyCPU;
+    private int quantityCPU = 4;
+    private int frequencyCPU = 3;
     private String view;
 
     // Lab 2-1-2
