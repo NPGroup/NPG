@@ -41,17 +41,19 @@ public class MyMath {
         findMax(value);
         System.out.println();
         findMin(Calculation.nvalues1);
-        findMin(Calculation.nvalues2);
-        System.out.println();
         findMax(Calculation.nvalues1);
+        System.out.println();
+        findMin(Calculation.nvalues2);
         findMax(Calculation.nvalues2);
         System.out.println();
+        // By Array.sort ->
         Arrays.sort(value);
         System.out.println("Sorted Array: " + Arrays.toString(value));
         int min = value[0];
         System.out.println("Min value :" + min);
-        int max = value[5];
+        int max = value[(value.length-1)];
         System.out.println("Max value: " + max);
+        // By Array.sort ->|
         System.out.println();
         areaOfCircle(4);
     }
