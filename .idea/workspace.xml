@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb4e10a9-c94e-4647-aedd-e08a45c4ab08" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/lab246/MyPyramid.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/lab247/GravityCalculator.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -71,6 +71,7 @@
         <option value="$PROJECT_DIR$/src/com/lab244/Main.java" />
         <option value="$PROJECT_DIR$/src/com/lab255/MyCalc.java" />
         <option value="$PROJECT_DIR$/src/com/lab246/MyPyramid.java" />
+        <option value="$PROJECT_DIR$/src/com/lab247/GravityCalculator.java" />
       </list>
     </option>
   </component>
@@ -120,13 +121,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="NPG" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NPG" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="lab246" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -155,15 +149,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MyPyramid">
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.GravityCalculator">
+    <configuration name="GravityCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.lab225.*" />
+          <option name="PATTERN" value="com.lab247.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.lab225.Main" />
+      <option name="MAIN_CLASS_NAME" value="com.lab247.GravityCalculator" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -267,19 +261,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Main (2)" />
-      <item index="1" class="java.lang.String" itemvalue="Application.MyMath" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Main" />
-      <item index="3" class="java.lang.String" itemvalue="Application.MyCalc" />
-      <item index="4" class="java.lang.String" itemvalue="Application.MyPyramid" />
+      <item index="0" class="java.lang.String" itemvalue="Application.MyMath" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Main" />
+      <item index="2" class="java.lang.String" itemvalue="Application.MyCalc" />
+      <item index="3" class="java.lang.String" itemvalue="Application.MyPyramid" />
+      <item index="4" class="java.lang.String" itemvalue="Application.GravityCalculator" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.MyPyramid" />
-        <item index="1" class="java.lang.String" itemvalue="Application.MyCalc" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Main" />
-        <item index="3" class="java.lang.String" itemvalue="Application.MyMath" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Main (2)" />
+        <item index="0" class="java.lang.String" itemvalue="Application.GravityCalculator" />
+        <item index="1" class="java.lang.String" itemvalue="Application.MyPyramid" />
+        <item index="2" class="java.lang.String" itemvalue="Application.MyCalc" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Main" />
+        <item index="4" class="java.lang.String" itemvalue="Application.MyMath" />
       </list>
     </recent_temporary>
   </component>
@@ -701,6 +695,17 @@
         <state relative-caret-position="549">
           <caret line="33" column="33" lean-forward="false" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lab247/GravityCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="41" lean-forward="true" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
+          <folding>
+            <element signature="e#97#98#0" expanded="true" />
+            <element signature="e#143#144#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
